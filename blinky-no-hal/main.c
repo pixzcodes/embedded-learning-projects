@@ -1,3 +1,6 @@
+/*
+*	See the README for the writ-up for this project
+*/
 #include <stdint.h>
 
 #define PIN 5
